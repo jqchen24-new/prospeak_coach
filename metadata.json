@@ -1,0 +1,7 @@
+{
+  "name": "ProSpeak Coach",
+  "description": "A real-time professional communication coach using Gemini Live API to help non-native speakers improve their workplace English.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
